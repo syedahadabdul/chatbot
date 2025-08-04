@@ -1,9 +1,9 @@
 # chatbot
-📌 Project Title: IBM Watson Chat Assistant
-🧠 Overview
+ Project Title: IBM Watson Chat Assistant
+ Overview
 This repository contains a Chat Assistant built using IBM Watson Assistant on IBM Cloud. The assistant is designed to simulate human-like conversations and can be easily trained and deployed for various domains such as customer support, FAQ automation, or information retrieval.
 
-🔧 Features
+ Features
 Built with IBM Watson Assistant
 
 Deployed on IBM Cloud
@@ -14,21 +14,21 @@ Customizable intents, entities, and dialog flows
 
 Easily integrable with websites, apps, or backend services
 
-🚀 Tech Stack
+Tech Stack
 IBM Watson Assistant
 
 IBM Cloud
 
 (Optional) Node.js / Flask / React / etc. (Include if used)
 
-📁 Contents
+ Contents
 /workspace/ – Watson Assistant skill (JSON format)
 
 /deployment/ – Deployment instructions and environment setup
 
 /docs/ – Screenshots or documentation of the assistant flow
 
-📝 Setup Instructions
+ Setup Instructions
 Clone the repository
 
 Import the skill into IBM Watson Assistant
